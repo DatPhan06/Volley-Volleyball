@@ -1,0 +1,24 @@
+﻿  Game.cpp
+  Player.cpp
+C:\Users\Phan Tien Dat\Downloads\Phan Tien Dat\LTNC\PikachuVolleyball-master\PikachuVolleyball-master\PikachuVolleyball\Player.cpp(5,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Phan Tien Dat\Downloads\Phan Tien Dat\LTNC\PikachuVolleyball-master\PikachuVolleyball-master\PikachuVolleyball\Player.cpp(10,128): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Phan Tien Dat\Downloads\Phan Tien Dat\LTNC\PikachuVolleyball-master\PikachuVolleyball-master\PikachuVolleyball\Player.cpp(10,125): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Phan Tien Dat\Downloads\Phan Tien Dat\LTNC\PikachuVolleyball-master\PikachuVolleyball-master\PikachuVolleyball\Player.cpp(46,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Phan Tien Dat\Downloads\Phan Tien Dat\LTNC\PikachuVolleyball-master\PikachuVolleyball-master\PikachuVolleyball\Player.cpp(47,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Phan Tien Dat\Downloads\Phan Tien Dat\LTNC\PikachuVolleyball-master\PikachuVolleyball-master\PikachuVolleyball\Player.cpp(99,101): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Phan Tien Dat\Downloads\Phan Tien Dat\LTNC\PikachuVolleyball-master\PikachuVolleyball-master\PikachuVolleyball\Player.cpp(99,87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Phan Tien Dat\Downloads\Phan Tien Dat\LTNC\PikachuVolleyball-master\PikachuVolleyball-master\PikachuVolleyball\Player.cpp(105,101): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Phan Tien Dat\Downloads\Phan Tien Dat\LTNC\PikachuVolleyball-master\PikachuVolleyball-master\PikachuVolleyball\Player.cpp(105,87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Phan Tien Dat\Downloads\Phan Tien Dat\LTNC\PikachuVolleyball-master\PikachuVolleyball-master\PikachuVolleyball\Player.cpp(131,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Phan Tien Dat\Downloads\Phan Tien Dat\LTNC\PikachuVolleyball-master\PikachuVolleyball-master\PikachuVolleyball\Player.cpp(141,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Phan Tien Dat\Downloads\Phan Tien Dat\LTNC\PikachuVolleyball-master\PikachuVolleyball-master\PikachuVolleyball\Player.cpp(148,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Phan Tien Dat\Downloads\Phan Tien Dat\LTNC\PikachuVolleyball-master\PikachuVolleyball-master\PikachuVolleyball\Player.cpp(181,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Phan Tien Dat\Downloads\Phan Tien Dat\LTNC\PikachuVolleyball-master\PikachuVolleyball-master\PikachuVolleyball\Player.cpp(182,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Phan Tien Dat\Downloads\Phan Tien Dat\LTNC\PikachuVolleyball-master\PikachuVolleyball-master\PikachuVolleyball\Player.cpp(222,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Phan Tien Dat\Downloads\Phan Tien Dat\LTNC\PikachuVolleyball-master\PikachuVolleyball-master\PikachuVolleyball\Player.cpp(225,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Phan Tien Dat\Downloads\Phan Tien Dat\LTNC\PikachuVolleyball-master\PikachuVolleyball-master\PikachuVolleyball\Player.cpp(226,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Phan Tien Dat\Downloads\Phan Tien Dat\LTNC\PikachuVolleyball-master\PikachuVolleyball-master\PikachuVolleyball\Player.cpp(230,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Phan Tien Dat\Downloads\Phan Tien Dat\LTNC\PikachuVolleyball-master\PikachuVolleyball-master\PikachuVolleyball\Player.cpp(231,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Phan Tien Dat\Downloads\Phan Tien Dat\LTNC\PikachuVolleyball-master\PikachuVolleyball-master\PikachuVolleyball\Player.cpp(274,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Volley Volleyball.vcxproj -> C:\Users\Phan Tien Dat\Downloads\Phan Tien Dat\LTNC\Volley Volleyball\x64\Debug\Volley Volleyball.exe
